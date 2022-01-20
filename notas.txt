@@ -1,0 +1,27 @@
+===== C =====
+# #include		-- Directivas del preprocesador
+# #define		-- Macros del preprocesador
+# int main()	-- Funcion principal
+# printf()		-- Salida por consola
+# scanf()		-- Entrada por consola
+# strcpy()		-- Copia cadena a variable
+# return 0		-- Termina programa
+# '\n'			-- Nueva linea
+
+===== Librerias C =====
+# stdio.h
+# stdlib.h
+# math.h
+# string.h
+
+===== Datatype =====
+int var;
+char var;
+char var[2] = 'AB';
+double var;
+
+---
+#define CONSTANTE 100
+int var;
+int media(int a, int b);
+void funcion() -- No devuelve valor
